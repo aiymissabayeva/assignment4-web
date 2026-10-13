@@ -31,10 +31,10 @@ The form includes:
 
 ## Technologies Used
 
-- **HTML5** — form elements and validation attributes
-- **CSS3** — custom styling and colors
-- **Bootstrap 5** — responsive layout and form styling
-- **JavaScript** — validation and feedback messages
+- **HTML5** - form elements and validation attributes
+- **CSS3** - custom styling and colors
+- **Bootstrap 5** - responsive layout and form styling
+- **JavaScript** - validation and feedback messages
 
 ## Project Structure
 
