@@ -15,10 +15,11 @@ nav a {
     color: white;
     text-decoration: none;
     margin: 0 15px;
+    transition: 0.3s;
 }
 
 nav a:hover {
-    text-decoration: underline;
+    color: antiquewhite;
 }
 
 .container {
