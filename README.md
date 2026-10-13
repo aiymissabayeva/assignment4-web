@@ -1,4 +1,4 @@
-# Assignment 4 — Forms and Validation
+# Assignment 4 - Forms and Validation
 
 ## Project Overview
 
@@ -8,19 +8,19 @@ The assignment includes five tasks, from a simple contact form to a registration
 
 ## Tasks Description
 
-### Task 0 — Simple Contact Form
+### Task 0 - Simple Contact Form
 Created a basic contact form using HTML. It includes Name, Email, Message, and Submit button. Each field has a label connected to its input.
 
-### Task 1 — HTML5 Validation
+### Task 1 - HTML5 Validation
 Improved the contact form by adding built-in HTML5 validation. The `required` attribute prevents empty submissions, `type="email"` checks the email format, and `maxlength` limits the input length.
 
-### Task 2 — Bootstrap Form Styling
+### Task 2 - Bootstrap Form Styling
 Designed a contact form using Bootstrap 5. Used the Bootstrap Grid System to create a responsive layout, along with `form-control`, `form-label`, placeholders, and helper text.
 
-### Task 3 — Bootstrap Validation Feedback
+### Task 3 - Bootstrap Validation Feedback
 Implemented form validation using JavaScript and Bootstrap. The form uses `checkValidity()` to check input values and applies `is-valid` or `is-invalid` classes. Success and error messages appear using Bootstrap feedback components.
 
-### Task 4 — Registration Form
+### Task 4 - Registration Form
 Created a responsive registration form with First Name, Last Name, Email, Password, Confirm Password, Gender, Hobbies, and Country.
 
 The form includes:
