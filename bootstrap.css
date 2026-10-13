@@ -7,19 +7,21 @@ body {
 
 nav {
     background-color: #843b55;
-    padding: 18px;
-    text-align: center;
+    height: 62px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
 }
 
-nav .nav-link {
+nav a {
     color: white;
     text-decoration: none;
     margin: 0 15px;
-    padding: 0;
     transition: 0.3s;
 }
 
-nav .nav-link:hover {
+nav a:hover {
     color: antiquewhite;
 }
 

@@ -7,8 +7,11 @@ body {
 
 nav {
     background-color: #843b55;
-    padding: 18px;
-    text-align: center;
+    height: 62px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
 }
 
 nav a {
